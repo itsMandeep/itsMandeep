@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=120&section=header&text=Mandeep%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Frontend%20Lead%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder&descSize=14&descAlignY=85&descColor=0891b2" width="100%" />
 
 <br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&multiline=false&width=600&lines=7+years+shipping+production+software+at+scale;Led+10%2B+engineers+%E2%80%94+6+products+%E2%80%94+0+missed+milestones;React+%7C+Next.js+%7C+Three.js+%7C+Web3+%7C+AI;Currently%3A+Principal+Frontend+%2B+AI+Engineer)](https://github.com/itsMandeep)
 
