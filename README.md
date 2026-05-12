@@ -1,52 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mandeep Singh
-======================================================================================================================================
+<div align="center">
 
-AI Product Engineer
--------------------
+```
+ ███╗   ███╗ █████╗ ███╗   ██╗██████╗ ███████╗███████╗██████╗
+ ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝██╔════╝██╔══██╗
+ ██╔████╔██║███████║██╔██╗ ██║██║  ██║█████╗  █████╗  ██████╔╝
+ ██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
+ ██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝███████╗███████╗██║
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝╚═╝
+```
 
-Building...
+### `Frontend Lead · AI Engineer · Builder`
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [smandeepsinghk@gmail.com](mailto:smandeepsinghk@gmail.com)
-* 🧠  I'm currently learning all about AI and Agriculture
-* 👥  I'm looking to collaborate on Agriculture and AI innovations
-* 💬  Ask me about We all have limited time to achieve greatness... Don't tell anyone.
+*7 years turning complex requirements into clean, fast, memorable software*
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XCode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
-![Web3JS](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-mandeep-singh/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:smandeepsinghk@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/itsMandeep?style=flat-square&color=0891b2&labelColor=0d1117)](https://github.com/itsMandeep)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/itsMandeep" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.threads.net/@o_chal_koi_gal_ni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/developer-mandeep-singh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/itsMandeep" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itsMandeep?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-<b>My GitHub Stats</b>
+## What I Build
 
-<a href="http://www.github.com/itsMandeep"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsMandeep&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I architect and ship **production-grade** frontend systems — not just UIs, but entire product ecosystems. At [KGeN](https://kgen.io), I led a team of 10+ engineers and owned 6 products from zero to live in 24 months. No missed milestones.
+
+```
+  React / React Native / Next.js ──── 7 years, deep ownership
+  Three.js / WebGL / GLSL ──────────── 3D scroll-storytelling, shader effects
+  Web3 / Wallets ───────────────────── Non-custodial wallet, WalletConnect, NFTs
+  AI Tooling ───────────────────────── LLM workflows, RAG pipelines, agentic tools
+  System Design ────────────────────── Micro-frontends, NPM SDKs, event infra
+```
+
+---
+
+## Shipped & Measured
+
+| What | Stack | Impact |
+|---|---|---|
+| **kgen.io** — 3D homepage | Three.js, R3F, GLSL | Sub-2s load, immersive scroll-storytelling |
+| **KStore** — E-commerce | Next.js SSR/ISR, GraphQL | **+40% sales conversion** post-launch |
+| **Crypto Wallet** — Non-custodial | Web3Auth, WalletConnect | **+25% user retention** |
+| **Micro-frontend System** | Path-based routing, 5+ apps | Zero cross-team merge conflicts |
+| **track-event-analytics** — NPM SDK | Custom schema, zero-config | Adopted across all KGeN products |
+| **BYJU's Learn Station** | React Native, CodePush OTA | **35% faster release cycles** |
+
+---
+
+## Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+
+</div>
+
+---
+
+## Currently
+
+```js
+const mandeep = {
+  focus:    ["AI-native product development", "Agentic workflows", "LLM tooling"],
+  building: "Where agriculture meets intelligent software",
+  reading:  ["Staff Engineer — Will Larson", "A Philosophy of Software Design"],
+  goal:     "Principal Frontend + AI Engineer @ a product I believe in",
+}
+```
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsMandeep&stroke=0891b2&background=0d1117&ring=0891b2&fire=ffffff&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=888888&dates=555555&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"The people crazy enough to think they can change the world are the ones who do."*
+
+`Punjab, India · Open to remote · smandeepsinghk@gmail.com`
+
+</div>
