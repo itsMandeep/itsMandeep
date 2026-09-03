@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=120&section=header&text=Mandeep%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Frontend%20Lead%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder&descSize=14&descAlignY=85&descColor=0891b2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=120&section=header&text=Mandeep%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn&desc=Frontend%20Lead%20%C2%B7%20Real-Time%20%2B%20AI%20Interfaces%20%C2%B7%20Builder&descSize=14&descAlignY=85&descColor=0891b2" width="100%" />
 
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&multiline=false&width=600&lines=7+years+shipping+production+software+at+scale;Led+10%2B+engineers+%E2%80%94+6+products+%E2%80%94+0+missed+milestones;React+%7C+Next.js+%7C+Three.js+%7C+Web3+%7C+AI;Currently%3A+Principal+Frontend+%2B+AI+Engineer)](https://github.com/itsMandeep)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&multiline=false&width=650&lines=7%2B+years+shipping+production+frontend+systems;Led+10%2B+engineers+%E2%80%94+8%2B+products+%E2%80%94+near-zero+missed+milestones;React+%7C+Next.js+%7C+TypeScript+%7C+Real-Time+%7C+AI+Interfaces;Building+streaming%2C+agentic%2C+and+data-heavy+UI)](https://github.com/itsMandeep)
 
 <br/>
 
@@ -19,14 +19,14 @@
 
 ## What I Build
 
-I architect and ship **production-grade** frontend systems — not just UIs, but entire product ecosystems. At [KGeN](https://kgen.io), I led a team of 10+ engineers and owned 6 products from zero to live in 24 months. No missed milestones.
+I architect frontend systems that hold up under real production load — real-time streams, secure auth flows, and interfaces backed by live data, not just static UI. At [KGeN](https://kgen.io), I led a team of 10+ engineers and shipped 8+ products in 3 years with near-zero missed milestones.
 
 ```
-  React / React Native / Next.js ──── 7 years, deep ownership
-  Three.js / WebGL / GLSL ──────────── 3D scroll-storytelling, shader effects
-  Web3 / Wallets ───────────────────── Non-custodial wallet, WalletConnect, NFTs
-  AI Tooling ───────────────────────── LLM workflows, RAG pipelines, agentic tools
-  System Design ────────────────────── Micro-frontends, NPM SDKs, event infra
+  React / React Native / Next.js ──── 7+ years, deep ownership
+  Real-Time Systems ────────────────── WebRTC, WebSockets, SSE streaming
+  AI-Backed Interfaces ─────────────── Token-streamed UI grounded in live data
+  Security & Auth ──────────────────── Non-custodial wallets, biometric + KYC-gated flows
+  System Design ─────────────────────── Micro-frontends, NPM SDKs, event infra
 ```
 
 ---
@@ -35,12 +35,14 @@ I architect and ship **production-grade** frontend systems — not just UIs, but
 
 | What | Stack | Impact |
 |---|---|---|
-| **kgen.io** — 3D homepage | Three.js, R3F, GLSL | Sub-2s load, immersive scroll-storytelling |
-| **KStore** — E-commerce | Next.js SSR/ISR, GraphQL | **+40% sales conversion** post-launch |
-| **Crypto Wallet** — Non-custodial | Web3Auth, WalletConnect | **+25% user retention** |
-| **Micro-frontend System** | Path-based routing, 5+ apps | Zero cross-team merge conflicts |
-| **track-event-analytics** — NPM SDK | Custom schema, zero-config | Adopted across all KGeN products |
-| **BYJU's Learn Station** | React Native, CodePush OTA | **35% faster release cycles** |
+| **AI Support Assistant** | SSE, token-by-token streaming | **2,000+ queries/mo** resolved without human handoff |
+| **HumynLabs** — speech platform | WebRTC, WebSocket, React, TypeScript | Thousands of hours of audio for LLM/robotics training |
+| **Wallet Redesign** — non-custodial | Web3Auth, WalletConnect, 6 chains | **−25% onboarding drop-off** via biometric + KYC-gated flow |
+| **K-Store** — e-commerce | Next.js SSR/ISR | **+40% sales conversion**, optimized LCP/TTFB |
+| **Micro-frontend System** | Path-based routing, 5+ apps | Independent team deploys, zero merge conflicts |
+| **Server-Driven UI** | Redux Toolkit (normalized store) | Live flow reconfig with no frontend release |
+| **kgen.io** — 3D experience | React Three Fiber, GLTF compression | Sub-second initial load |
+| **track-event-analytics** — NPM SDK | Zero-config, standardized schema | Adopted org-wide across all KGeN products |
 
 ---
 
@@ -52,15 +54,14 @@ I architect and ship **production-grade** frontend systems — not just UIs, but
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 </div>
 
@@ -70,10 +71,10 @@ I architect and ship **production-grade** frontend systems — not just UIs, but
 
 ```js
 const mandeep = {
-  focus:    ["AI-native product development", "Agentic workflows", "LLM tooling"],
-  building: "Where agriculture meets intelligent software",
+  focus:    ["Real-time & streaming interfaces", "AI-grounded UI", "Frontend systems design"],
+  exploring: ["Agentic and LLM-backed product surfaces"],
   reading:  ["Staff Engineer — Will Larson", "A Philosophy of Software Design"],
-  goal:     "Principal Frontend + AI Engineer @ a product I believe in",
+  goal:     "Senior/Staff Frontend Engineer on a product with real technical depth",
 }
 ```
 
@@ -90,8 +91,6 @@ const mandeep = {
 ---
 
 <div align="center">
-
-*"The people crazy enough to think they can change the world are the ones who do."*
 
 `Punjab, India · Open to remote · smandeepsinghk@gmail.com`
 
